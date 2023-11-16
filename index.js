@@ -1,0 +1,3 @@
+function blood() {
+    alert(UwU)
+}
