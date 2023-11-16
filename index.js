@@ -1,3 +1,3 @@
-function blood() {
+function hehe() {
     alert(UwU)
 }
